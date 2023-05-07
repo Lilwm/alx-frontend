@@ -127,7 +127,7 @@ a:active{
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
-.footer .ul{
+.footer ul{
     text-align: right;
 }
 .navbar-menu{
@@ -155,7 +155,7 @@ a:active{
     color: var(--nav-item-link-hover);
 }
 
-.row .ul{
+ul.row{
     margin: 0;
     padding: 0;
     list-style: none;
