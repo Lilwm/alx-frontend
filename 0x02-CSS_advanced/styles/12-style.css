@@ -57,6 +57,12 @@ a {
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
 }
+.section-title-margin{
+    margin: var(--section-title-margin);
+}
+.section-title-color{
+    color: var(--section-title-color);
+}
 .section-tagline{
     color: var(--color-primary);
     font-family: var(--font-family-title);
@@ -66,10 +72,5 @@ a {
 .section-header{
     text-align: var(--section-header-align);
 }
-.section-title-margin{
-    margin: var(--section-title-margin);
-}
-.section-title-color{
-    color: var(--section-title-color);
-}
+
   
