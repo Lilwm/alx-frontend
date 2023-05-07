@@ -136,7 +136,7 @@ a:active{
 .social-link{
     display: block;
 }
-.social-link svg {
+.social-link > svg {
     fill: var(--text-color);
   }
 .navbar-menu{
